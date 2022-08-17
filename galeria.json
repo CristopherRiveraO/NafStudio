@@ -1,0 +1,98 @@
+{
+    "imagenes": [
+        {
+            "imagen": "img/galeria/gelx-1.jpg",
+            "categoria": "GelX"
+        },
+        {
+            "imagen": "img/galeria/gelx-2.jpg",
+            "categoria": "GelX"
+        },
+        {
+            "imagen": "img/galeria/gelx-3.jpg",
+            "categoria": "GelX"
+        },
+        {
+            "imagen": "img/galeria/gelx-4.jpg",
+            "categoria": "GelX"
+        },
+        {
+            "imagen": "img/galeria/gelx-5.jpg",
+            "categoria": "GelX"
+        },
+        {
+            "imagen": "img/galeria/gelx-6.jpg",
+            "categoria": "GelX"
+        },
+        {
+            "imagen": "img/galeria/gelx-7.jpg",
+            "categoria": "GelX"
+        },
+        {
+            "imagen": "img/galeria/gelx-8.jpg",
+            "categoria": "GelX"
+        },
+        {
+            "imagen": "img/galeria/acrilico-1.jpg",
+            "categoria": "acrilicas"
+        },
+        {
+            "imagen": "img/galeria/acrilico-2.jpg",
+            "categoria": "acrilicas"
+        },
+        {
+            "imagen": "img/galeria/acrilico-3.jpg",
+            "categoria": "acrilicas"
+        },
+        {
+            "imagen": "img/galeria/acrilico-4.jpg",
+            "categoria": "acrilicas"
+        },
+        {
+            "imagen": "img/galeria/calcio-1.jpg",
+            "categoria": "calcio"
+        },
+        {
+            "imagen": "img/galeria/calcio-2.jpg",
+            "categoria": "calcio"
+        },
+        {
+            "imagen": "img/galeria/calcio-3.jpg",
+            "categoria": "calcio"
+        },
+        {
+            "imagen": "img/galeria/calcio-4.jpg",
+            "categoria": "calcio"
+        },
+        {
+            "imagen": "img/galeria/calcio-5.jpg",
+            "categoria": "calcio"
+        },
+        {
+            "imagen": "img/galeria/calcio-6.jpg",
+            "categoria": "calcio"
+        },
+        {
+            "imagen": "img/galeria/calcio-7.jpg",
+            "categoria": "calcio"
+        },
+        {
+            "imagen": "img/galeria/calcio-8.jpg",
+            "categoria": "calcio"
+        },
+        {
+            "imagen": "img/galeria/semi-1.jpg",
+            "categoria": "semi"
+        }
+        ,
+        {
+            "imagen": "img/galeria/semi-2.jpg",
+            "categoria": "semi"
+        }
+        ,
+        {
+            "imagen": "img/galeria/semi-3.jpg",
+            "categoria": "semi"
+        }
+   ]
+}
