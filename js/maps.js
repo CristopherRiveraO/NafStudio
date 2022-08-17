@@ -1,11 +1,10 @@
-
 // inicia la Configuración
 
 let map, marker, watchID, geoLoc;
 
 function initMap() {
 
-  const myLatLng = { lat: 10.01813, lng: -84.21394 };
+  const myLatLng = { lat: 9.924676, lng: -84.109803 };
   map = new google.maps.Map(document.getElementById("map"), {
     zoom: 15,
     center: myLatLng
@@ -50,7 +49,7 @@ function calculateAndDisplayRoute(directionsService, directionsRenderer, myLatLn
   directionsService.route(
     {
       origin: {lat: myLatLng.lat, lng: myLatLng.lng},
-      destination: { lat: 10.01813, lng: -84.21394 },
+      destination: { lat: 9.924676, lng: -84.109803 },
       // tambien se puede usar de otro modo WALKING - BICYCLING - TRANSIT
       travelMode: google.maps.TravelMode["DRIVING"]
     },
@@ -65,6 +64,3 @@ function calculateAndDisplayRoute(directionsService, directionsRenderer, myLatLn
 }
 
 window.initMap = initMap;
-
-
-
